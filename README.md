@@ -1,6 +1,6 @@
 # 🐍 Python Programming Portfolio
 
-A comprehensive collection of Python programming assignments, pandas data analysis projects, and class examples from the **Data Science with Ajay Yadav** course (8PM EST Batch, Dec 2024 – Jan 2025).
+A comprehensive collection of Python programming assignments, pandas data analysis projects, and class examples completed during a **Data Science training program** — covering core Python, data structures, control flow, and data analysis with Pandas.
 
 ---
 
